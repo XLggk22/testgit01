@@ -1,0 +1,14 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision 75e1a0a6fadac240a14b8f0a74b28dab17c6bc6b)
++++ index.html	(revision 10207a1246dbf85102685954b491c4388d5e7538)
+@@ -2,5 +2,5 @@
+ <div>第一次修改测试（notepad++编辑）<div>
+ <div>在第一次修改前在githut上修改</div>
+ <div>20190813-local commit log test</div><--master上传01-->
+-<span>20190817-test close issue</span>
++<span>20190817-test close issue</span><--master上传02-->
+ <span>20191101-test git tag</span>
